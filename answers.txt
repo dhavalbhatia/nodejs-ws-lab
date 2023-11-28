@@ -1,0 +1,16 @@
+Q1. I see Node.js WebSockets Lab title and a black rectangular box with a bunny.
+    Moving the bunny in one tab, causes the bunny to move in another tab.
+
+Q2. JavaScript is dynamically typed, whereas, typescript is statically typed
+    meaning that essentially typescript needs developers to declare variable types,
+    this in turn avoids bugs and is easier to debug.
+
+    JS is an interpreted language, and TS picks errors when the code is compiled.
+
+Q3. It organizes modules and dependencies, along with optimizing website performance.
+    ParcelJS makes improves diagnostics, it formats errors.
+
+Q4. 0 - connecting
+    1 - open
+    2 - closing
+    3 - closed
